@@ -1,0 +1,105 @@
+{
+ "response_code": 0,
+ "results": [
+  {
+   "category": "Science & Nature",
+   "type": "boolean",
+   "difficulty": "medium",
+   "question": "Anatomy considers the forms of macroscopic structures such as organs and organ systems.",
+   "correct_answer": "True",
+   "incorrect_answers": [
+    "False"
+   ]
+  },
+  {
+   "category": "Entertainment: Cartoon & Animations",
+   "type": "boolean",
+   "difficulty": "easy",
+   "question": "Bill Cipher in the show &quot;Gravity Falls&quot; is the good guy.",
+   "correct_answer": "False",
+   "incorrect_answers": [
+    "True"
+   ]
+  },
+  {
+   "category": "History",
+   "type": "boolean",
+   "difficulty": "easy",
+   "question": "The United States of America declared their independence from the British Empire on July 4th, 1776.",
+   "correct_answer": "True",
+   "incorrect_answers": [
+    "False"
+   ]
+  },
+  {
+   "category": "Entertainment: Books",
+   "type": "boolean",
+   "difficulty": "easy",
+   "question": "Stephen Chbosky wrote the book &#039;The Perks of Being A Wallflower&#039;.",
+   "correct_answer": "True",
+   "incorrect_answers": [
+    "False"
+   ]
+  },
+  {
+   "category": "Animals",
+   "type": "boolean",
+   "difficulty": "easy",
+   "question": "A flock of crows is known as a homicide.",
+   "correct_answer": "False",
+   "incorrect_answers": [
+    "True"
+   ]
+  },
+  {
+   "category": "Entertainment: Video Games",
+   "type": "boolean",
+   "difficulty": "easy",
+   "question": "The end credits sequence in Grand Theft Auto 5 is over half an hour long.",
+   "correct_answer": "True",
+   "incorrect_answers": [
+    "False"
+   ]
+  },
+  {
+   "category": "Entertainment: Music",
+   "type": "boolean",
+   "difficulty": "easy",
+   "question": "A Saxophone is a brass instrument.",
+   "correct_answer": "False",
+   "incorrect_answers": [
+    "True"
+   ]
+  },
+  {
+   "category": "Entertainment: Video Games",
+   "type": "boolean",
+   "difficulty": "medium",
+   "question": "In Rocket League, you can play Basketball.",
+   "correct_answer": "True",
+   "incorrect_answers": [
+    "False"
+   ]
+  },
+  {
+   "category": "Politics",
+   "type": "boolean",
+   "difficulty": "hard",
+   "question": "George Clinton, Vice President of the United States (1805-1812), is an ancestor of President Bill Clinton.",
+   "correct_answer": "False",
+   "incorrect_answers": [
+    "True"
+   ]
+  },
+  {
+   "category": "History",
+   "type": "boolean",
+   "difficulty": "easy",
+   "question": "Thomas Crapper was a plumber who invented the flushing toilet.",
+   "correct_answer": "False",
+   "incorrect_answers": [
+    "True"
+   ]
+  }
+ ]
+}
